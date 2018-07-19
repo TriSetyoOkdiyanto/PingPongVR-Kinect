@@ -1,0 +1,64 @@
+Initialize engine version: 5.5.1p4 (f10174ef3e2d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 820M (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     2000 MB
+    Driver:   22.21.13.8494
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\TRI SETYO\Documents\Unity\Kinect\PingPongVR+Kinect_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on OVRScreenFade2
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on OVRInspector
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.UnloadTime: 2.181305 ms
+Unity v5.5.1p4, Oculus Utilities v1.11.0, OVRPlugin v1.11.0, SDK v0.0.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NuiInitialize Failed - Device is not connected.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+System.Exception: NuiInitialize Failed
+  at KinectManager.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ovr_GetAudioDeviceOutGuid failed: 
+Cannot get preferred VR audio OUT device.ovr_GetAudioDeviceInGuid failed: 
+Cannot get preferred VR audio IN device.Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2a64 -> priority: 1 
