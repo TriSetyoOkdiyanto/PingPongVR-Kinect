@@ -1,6 +1,22 @@
 # PingPongVR-Kinect
 Virtual Reality Games table tennis using the oculus rift DK2 and Kinect for Xbox 360
 
+
+> **1. Home Screen Menu**
+<img src="PingPongVRKinect/Images/Screenshot1.PNG" width="450"> 
+
+> **2. View When The Game Starts**
+<img src="PingPongVRKinect/Images/Screenshot2.PNG" width="450">
+
+> **3. User detected while playing**
+<img src="PingPongVRKinect/Images/Screenshot3.PNG" width="450">
+
+> **4. Do "Swipe Up" for throw the ping pong ball**
+<img src="PingPongVRKinect/Images/Screenshot4.PNG" width="450">
+
+> **Credit**
+<img src="PingPongVRKinect/Images/Screenshot5.PNG" width="450">
+
 #
    Copyright {2017} {Tri Setyo Okdiyanto}
 
